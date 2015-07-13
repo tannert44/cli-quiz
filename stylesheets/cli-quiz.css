@@ -1,0 +1,20 @@
+body {
+	font-family: Arial, Helvetica, serif;
+	width: 65%;
+	float: left;
+	display:inline;
+}
+
+#sectionOne, #sectionTwo {
+	font-family: Tahoma, Arial, serif;
+}
+
+.favLine {
+	background-color: goldenrod;
+}
+
+#sidebar {
+	width: 30%;
+	float: right;
+	display: inline;
+}
